@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-26T09:36:25.145Z</updated>
+  <updated>2016-02-26T09:38:11.428Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My HelloWorld</title>
-    <link href="http://yoursite.com/2016/02/26/My-HelloWorld/"/>
-    <id>http://yoursite.com/2016/02/26/My-HelloWorld/</id>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/02/26/HelloWorld/"/>
+    <id>http://yoursite.com/2016/02/26/HelloWorld/</id>
     <published>2016-02-26T09:31:53.000Z</published>
-    <updated>2016-02-26T09:36:25.145Z</updated>
+    <updated>2016-02-26T09:38:11.428Z</updated>
     
     <content type="html">&lt;h1 id=&quot;HelloWorld&quot;&gt;&lt;a href=&quot;#HelloWorld&quot; class=&quot;headerlink&quot; title=&quot;HelloWorld&quot;&gt;&lt;/a&gt;HelloWorld&lt;/h1&gt;&lt;p&gt;第一次搭建个人blog，特此纪念一下&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;2016年,加油！&lt;/p&gt;
